@@ -29,3 +29,4 @@ What I use vscode and the liver server plugin:
 
 </div>
 
+(MIT-License)
