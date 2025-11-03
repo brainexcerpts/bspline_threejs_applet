@@ -12,7 +12,7 @@
 </div>
 
 This is a Javascript / ThreeJS implementation of B-spline a curve with the (inneficient) Cox-de Boor recursion.
-The main appeal of this small demo is the visualization of the basis functions and the ability to play with the knots and see in real time how the curve reacts.
+The main appeal of this small demo is the 2D & 3D visualization of the basis functions and the ability to play with the knots and see in real time how the curve reacts.
 This was directly inspired by the amazing video of [Freya Holmér on "The Continuity of Splines"](https://www.youtube.com/watch?v=jvPPXbo87ds).
 I wanted to reproduce the styling which I thought was cool, and play myself with the various parameters.
 You can also change the number of control points and test various configurations of the "knot vector".
@@ -28,3 +28,4 @@ What I use vscode and the liver server plugin:
 ![launch_liver_server](https://github.com/user-attachments/assets/e4fb442a-e6c2-4eac-992a-1ea1398faee5)
 
 </div>
+
