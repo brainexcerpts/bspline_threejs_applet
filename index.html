@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+
+<head>
+
+    <title>
+        B-Spline with ThreeJS ( inspired by Freya Holmér Yt)
+    </title>
+
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/dat-gui/0.5.1/dat.gui.min.js"></script>
+
+
+    <link type="text/css" rel="stylesheet" href="./css/datGuiLightTheme.css">
+    <link type="text/css" rel="stylesheet" href="./css/datGuiThemeInnerUI.css" />
+
+
+    <script type="importmap">
+    {
+        "imports": {
+            "three": "https://cdn.jsdelivr.net/npm/three@0.157/build/three.module.js"
+        }
+    }
+    </script>
+
+
+</head>
+
+<body style="width: 100%; background-color: rgb(0, 0, 0);">
+
+
+    <div > <!-- id="content" light theme -->
+
+        <h1>Template page</h1>
+
+        <!-- guide on proper canva resizing:
+                https://webglfundamentals.org/webgl/lessons/webgl-resizing-the-canvas.html
+            -->
+        <div id="threeJsWrap_test" style="font-size: 0; position: relative;">
+            <div id="datGuiInner_test" class="datGuiInner"></div>
+            <div id="stats"></div>
+
+            <canvas id="test" style="position:relative; width: 100%; display: inline-block;"></canvas>
+            <div id="datGuiBottom_test" class="datGui" style="margin: 0;"></div>
+        </div>
+        <script type="module" src="./scripts/main.js" canvas_name="test"></script>
+    </div>
+
+    <canvas id="test" style="display:block;"></canvas>
+    <div id="datGuiBottom_test" class="datGui" style="margin: 0;"></div>
+    <script type="module" src="./scripts/main.js" canvas_name="test"></script>
+
+
+</body>
+</html>

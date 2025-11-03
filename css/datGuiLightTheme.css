@@ -1,0 +1,76 @@
+#content .datGui .dg.main.taller-than-window .close-button {
+    border-top: 1px solid #ddd;
+}
+
+#content .datGui .dg.main .close-button {
+    background-color: #ccc;
+}
+ 
+#content .datGui .dg.main .close-button:hover {
+    background-color: #ddd;
+}
+
+#content .datGui .dg {
+    color: #555;
+    text-shadow: none !important;
+}
+
+#content .datGui .dg.main::-webkit-scrollbar {
+    background: #fafafa;
+}
+
+#content .datGui .dg.main::-webkit-scrollbar-thumb {
+    background: #bbb;
+}
+ 
+#content .datGui .dg li:not(.folder) {
+    background: #fafafa;
+    border-bottom: 1px solid #ddd;
+}
+ 
+#content .datGui .dg li.save-row .button {
+    text-shadow: none !important;
+}
+
+#content .datGui .dg li.title {
+    background: #e8e8e8 url(data:image/gif;base64,R0lGODlhBQAFAJEAAP////Pz8////////yH5BAEAAAIALAAAAAAFAAUAAAIIlI+hKgFxoCgAOw==) 6px 10px no-repeat;
+}
+
+#content .datGui .dg .cr.function:hover,.dg .cr.boolean:hover {
+    background: #fff;
+}
+ 
+#content .datGui .dg .c input[type=text] {
+    background: #e9e9e9;
+}
+ 
+#content .datGui .dg .c input[type=text]:hover {
+    background: #eee;
+}
+ 
+#content .datGui .dg .c input[type=text]:focus {
+    background: #eee;
+    color: #555;
+}
+ 
+#content .datGui .dg .c .slider {
+    background: #e9e9e9;
+}
+
+#content .datGui .dg .c .slider:hover {
+    background: #eee;
+}
+
+#content .datGui .dg.main ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    clear: both; 
+}
+
+/* Hides "Close Controls" box */
+#content .datGui .dg.main .close-button {
+    font-size: 0;   
+    height: 0px;
+}
