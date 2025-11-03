@@ -27,6 +27,7 @@ What I use vscode and the liver server plugin:
 
 ![launch_liver_server](https://github.com/user-attachments/assets/e4fb442a-e6c2-4eac-992a-1ea1398faee5)
 
+(MIT-License)
 </div>
 
-(MIT-License)
+
