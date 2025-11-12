@@ -25,9 +25,12 @@ What I use vscode and the liver server plugin:
 
 <img width="766" height="155" alt="live_server" src="https://github.com/user-attachments/assets/1d021817-8533-4404-9896-d488322e50c6" />
 
+And left click "index.html" then "Open Live Server":
+
 ![launch_liver_server](https://github.com/user-attachments/assets/e4fb442a-e6c2-4eac-992a-1ea1398faee5)
 
 (MIT-License)
 </div>
+
 
 
