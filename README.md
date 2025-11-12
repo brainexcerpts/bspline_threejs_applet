@@ -4,6 +4,9 @@
 
 ![bspline_applet_threejs](https://github.com/user-attachments/assets/659bce55-c757-48f1-b262-cdeda6ee5507)
 
+![bspline_3d_manipulation](https://github.com/user-attachments/assets/accc4e30-3de2-4697-9bb5-9c6b76e64377)
+
+
 <img width="524" height="147" alt="parameters_bspline_threejs" src="https://github.com/user-attachments/assets/fec63207-75d4-4602-a0b3-15e67f3b266d" />
 
 <p>
@@ -31,6 +34,7 @@ And left click "index.html" then "Open Live Server":
 
 (MIT-License)
 </div>
+
 
 
 
